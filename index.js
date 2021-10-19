@@ -51,6 +51,7 @@ else if(parseInt(age) > 65){
 }
 
 // show user ticket
+alert(`Your ticket price is £${ticketPrice}, Enjoy your journey...`)
 console.log(`Your ticket price is £${ticketPrice}, Enjoy your journey...`);
 
 
